@@ -6,7 +6,7 @@ echo '
 <head></head>
 <body>
 <img src="images/lab.png" height="400" align="right">
-<body background="images/red.jpg">
+<body background="images/green.jpg">
 <font color="white">
 <h1>
 RED Test Site<br/> 
