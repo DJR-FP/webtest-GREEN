@@ -1,4 +1,3 @@
-  
-FROM nginx:latest
-COPY . /usr/share/nginx/html
+FROM richarvey/nginx-php-fpm
+COPY . /var/www/html
 #copys files from the current directory
