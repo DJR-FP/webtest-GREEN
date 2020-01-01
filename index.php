@@ -20,21 +20,9 @@ GREEN Test Site<br/>
 echo '<p style="color: white"/p>';
 //echo '<p style="font-size: 20px"/p>';
 //echo getenv('ENV_VAR');
-
 echo "Today Date is " . date("M,d,Y") . "<br>";
 echo "The Time is " . date("h:i:s") .  "<br>";
-
 echo "<br>";
-
-
-
-echo "<br>";
-
-echo "<br>";
-
-
-echo "<br>";
-
      // create a new cURL resource
       $ch = curl_init ();
 
@@ -79,8 +67,8 @@ echo "<br>";
 
 //echo file_get_contents("/tmp/host-hostname");
 
-$ServerName = file_get_contents("/tmp/host-hostname");
-echo "Server Name is $ServerName<br />"; 
+//$ServerName = file_get_contents("/tmp/host-hostname");
+//echo "Server Name is $ServerName<br />"; 
 
 echo "<br>";
 
