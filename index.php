@@ -9,7 +9,7 @@ echo '
 <body background="images/wall1.jpg">
 <font color="white">
 <h1>
-GREEN Test Site<br/> 
+FullProxy Lab Test Site<br/> 
 ..................................<br/>
 <h1/>
 </font>
